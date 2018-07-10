@@ -1,0 +1,8 @@
+copy the following line if you want to test Deadlock avoidance without request
+5 3 0 1 0 7 5 3 2 0 0 3 2 2 3 0 2 9 0 2 2 1 1 2 2 2 0 0 2 4 3 3 3 3 2 n
+
+copy the following line if you want to test Deadlock avoidance with request
+5 3 0 1 0 7 5 3 2 0 0 3 2 2 3 0 2 9 0 2 2 1 1 2 2 2 0 0 2 4 3 3 3 3 2 y 1 1 0 2
+
+copy the following line if you want to test Deadlock detection
+5 3 0 1 0 0 0 0 2 0 0 2 0 2 3 0 3 0 0 0 2 1 1 1 0 0 0 0 2 0 0 2 0 0 0
